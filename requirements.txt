@@ -3,3 +3,4 @@ reportlab
 argparse
 requests
 websocket
+json_minify
