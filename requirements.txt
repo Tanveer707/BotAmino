@@ -2,3 +2,4 @@ schedule
 reportlab
 argparse
 requests
+websocket
