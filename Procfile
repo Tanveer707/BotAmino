@@ -1,1 +1,1 @@
-worker: python BotAmino.py
+worker: python3 BotAmino.py
